@@ -1,8 +1,6 @@
 # Alexandre
 
 ---
-
-
 ## dados pessoais:
 
 CPF:XXXXXXXXXX
@@ -13,4 +11,13 @@ Telefone:XXXXXX
 
 E-mail:XXXXXXX
 
----
+
+
+## Experiencia:
+
+- servente de pedreiro
+- autocad
+- inventor
+
+
+
